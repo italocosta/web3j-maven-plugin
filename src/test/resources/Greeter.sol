@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: UNLICENSED
 pragma solidity >=0.4.23;
 
 /* Example from https://www.ethereum.org/greeter */
